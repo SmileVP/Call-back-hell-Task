@@ -1,6 +1,6 @@
  let div=document.createElement('div');
  let span=document.createElement('span');
- span.innerHTML="10";
+ span.innerHTML="";
  div.append(span);
  document.body.append(div);
 
