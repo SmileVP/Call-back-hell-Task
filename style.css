@@ -1,0 +1,9 @@
+div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    color:green;
+    height: 100vh;
+}
+
